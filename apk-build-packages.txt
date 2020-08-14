@@ -1,0 +1,4 @@
+build-base
+python3
+python3-dev
+linux-headers
